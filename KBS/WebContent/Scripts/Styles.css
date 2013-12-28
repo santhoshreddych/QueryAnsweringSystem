@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+
+.Divstyle{
+	color:Green;
+	width:300px;
+	margin-left:30px;
+}
+.Divstyle2{
+	padding: 20px 25px 15px;
+	background:none repeat scroll 0 0 #F1F1F1;
+ border:1px solid #E5E5E5;
+ margin:12px 0 0;
+ width:255px;
+ float:right;
+ margin-right:60px;
+}
+
+.transbg {background: opacity:0.6;}
